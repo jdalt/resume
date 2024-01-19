@@ -1,13 +1,11 @@
 # Jacob Dalton
-=================
+_Seasoned Startup Technologist_
 
--------------------     ----------------------------
-3116 37th Ave S               jacobrdalton@gmail.com
-Minneapolis, MN            Github: [jdalt](https://github.com/jdalt)
-USA                                     715-220-3615
+jacobrdalton@gmail.com
+
+Github: [jdalt](https://github.com/jdalt)
 
 ## About Me
-Seasoned Start-up Technologist
 
 I'm an experienced Software Engineer who can build a platform from the ground up and rally a team to support it.
 I've been programming since picking up Interplay's [Learn to Program Basic](https://archive.org/details/PCPowerplay-026-1998-07/page/n99/mode/2up) in the late 90s. 
@@ -21,46 +19,46 @@ I like to see things through to completion.
 
 ## Professional Experience
 
-### Software Technical Lead and Engineering Manager -- Sentera, Feb 2021 - Jan 2024
-St. Paul, MN
+### Software Technical Lead and Engineering Manager - *Sentera*, Feb 2021 - Jan 2024
+#### St. Paul, MN
 Managed up to 16 Software Engineers and the technical direction of the Sentera's FieldAgent platform.
 - Championed effort to containerize main monolithic application (and released to production in less than 1 year)
 - During a period of rapid growth hired 7 Software Engineers and assisted hiring 2 Product Managers and a Lead Designer
-- Architected a git-like incremental replacement of a time stamp based sync process that moved most to the platform data
+- Architected a git-like replacement of a time stamp based sync process that moved most to the platform data and incrementally replaced (to completion) over a period of about 2 years
 - Extracted a data model from product spec sheets and refashioned into a website and a declarative model used to drive to down cost of analytic goods
 - Migrated containerized application to AWS ECS and rewrote CI/CD pipeline on GitHub Actions for complete Continuous Delivery
 
-### Senior Software Engineer -- Sentera, Oct 2018 - Feb 2021
-St. Paul, MN
-Joined as second backend engineer on Sentera's Agronomic Insights platform. Learned a great deal about agronomic imagery pipepline processing and agronomic modeling.
+### Senior Software Engineer - *Sentera*, Oct 2018 - Feb 2021
+#### St. Paul, MN
+Joined as second backend engineer on Sentera's FieldAgent platform. Learned a great deal about imagery pipeplines and agronomic modeling.
 - Helped transform development to an agile SDLC with Continuous Delivery
-- Lead integration of prominent CPG company's agronomic data onto platform
+- Lead integration of prominent CPG company's agronomic data
 - Performance tuned GraphQL API and migrated data model to use geospatial indexes
-- Extended authentication with OIDC and SAML
+- Extended authentication with OIDC and SAML secondary providers
 - Helped accelerate the use of microservices using a lambda custom authorizer
-- Built a data pipeline for collecting and aggregating time series weather data on MongoDB
+- Built a data pipeline for collecting and aggregating time series weather data in MongoDB
 
-### Consulting Lead Software Engineer -- SpotsEngine, Jan 2018 - Feb 2018
-Minneapolis, MN
+### Consulting Lead Software Engineer - *SportsEngine*, Jan 2018 - Feb 2018
+#### Minneapolis, MN
 Lead development on a team of 5 to deliver a beta sports scheduling service. Built out a dynamic calendar grid capable of representing hundreds of games in AngularJS (picture 100s of boxes on your Google Calendar) with a backend in NodeJS running on AWS Lambda. Result was capable of scheduling 300 games over 3 days in less than 10 minutes, massively reducing the labor of manually scheduling events which would take several hours before.
 
-### Software Engineer -- SpotsEngine, Feb 2014 - Jun 2017
-Minneapolis, MN
+### Software Engineer - *SportsEngine*, Feb 2014 - Jun 2017
+#### Minneapolis, MN
 Started work as a mid level software engineer on CMS product. Later moved to competition management where I became a domain expert in team based competition structure and data modeling.
 - Migrated data model from MongoDB to PostgreSQL 1 model at a time with 0 downtime
 - Built a test automation library for component level testing in AngularJS
 - Rewrote the "Pow" proxy service (built by basecamp) as "Pop" to get better reliability and centralized local log control and debugging
 
-### Web Developer -- Internet Broadcasting, Aug 2013 - Jan 2014
-St. Paul, MN
+### Web Developer - *Internet Broadcasting*, Aug 2013 - Jan 2014
+#### St. Paul, MN
 Software developer on the Content Application Engine team. Maintained and built features on enterprise content management system that provides news to over 30 million users. Integrated enterprise user profile service that provides cross data center session information and uses OAuth1 and OAuth2 authentication providers. Wrote unit and integration tests using testNG, mockito, and selenium. Built custom top story rotator used in many new sites.
 
-### Web Developer Contractor -- u4ea, Apr 2013 - July 2013
-Minneapolis, MN
+### Web Developer Contractor - *u4ea*, Apr 2013 - July 2013
+#### Minneapolis, MN
 Led development of custom registration process and assisted with interactive map for multi-million dollar non-profit. Integrated Microsoft Dynamics 2011 CRM as backend with Wordpress frontend. Customized SOAP library to execute CRM workflows and modify database. Used Zend Framework 2 to structure application and glue CRM to Wordpress. Developed caching strategy for AngularJS mapping application with memcached. Handled technical communication with CRM vendor and wrote documentation.
 
-### Assistant English Teacher -- Buil Elementary, Mar 2010 - Mar 2012
-Bucheon, Gyeonggi-do, South Korea
+### Assistant English Teacher - *Buil Elementary*, Mar 2010 - Mar 2012
+#### Bucheon, Gyeonggi-do, South Korea
 Designed camps and taught English curriculum in South Korea. Developed HTML5 games and apps for English camps.
 
 ## Special Projects
@@ -77,14 +75,13 @@ During the Covid-19 lockdown and George Floyd protests (and just before the birt
 - Infrastrucutre
     - Terraform
     - Docker
-    - AWS - All the Things (namely: IAM, S3, VPC, EC2, RDS, Lambda, Batch, and ECS (ECS is my favorite))
+    - AWS (namely: IAM, S3, VPC, EC2, RDS, Lambda, Batch, and ECS)
 
 ## Domain Experience
 - Agriculture
 - GIS Modeling
 - Computer Vision and Imagery Processing
 - Competition Modeling
-
 
 ## Interests
 - Towing my kids around Minneapolis in the Honey Bee
