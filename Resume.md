@@ -65,7 +65,7 @@ Designed camps and taught English curriculum in South Korea. Developed HTML5 gam
 
 ## Special Projects
 [tcmap.org](https://tcmap.org/)
-During the Covid-19 lockdown and George Floyd protests (and just before the birth of my oldest son), I built the initial release and later managed the technical arm of website to map mutual aid distribution sites in the Twin Cities - a project called TCMAP. Our efforts were featured as 1 of 7 projects in [Minnedemo 34](https://www.youtube.com/watch?v=mMtmOZ1TExY).
+During the Covid-19 lockdown and George Floyd protests (and just before the birth of my oldest son), I built the initial release and later managed the [technical arm](https://github.com/Twin-Cities-Mutual-Aid/twin-cities-aid-distribution-locations) of a project to map mutual aid distribution sites in the Twin Cities - a project called TCMAP. Our efforts were featured as 1 of 7 projects in [Minnedemo 34](https://www.youtube.com/watch?v=mMtmOZ1TExY).
 
 ## Technologies
 - Frontend
